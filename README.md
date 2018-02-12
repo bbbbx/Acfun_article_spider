@@ -18,3 +18,7 @@ A 站文章区爬虫，爬了近万篇文章（9996），时间跨度为 2015-07
 如果对你有所帮助，不妨 `⭐️ Star` 一下。
 ![acfun_emotion](http://ohjn9v8nd.bkt.clouddn.com/c1fe1586gy1fhbm6dkohkj204603m3yf.jpg)
 
+### 后记
+
+A 站文章区的布局已经改版了，要抓文章的话根本不需要爬虫，通过抓 HTTP 包就可以知道请求文章的 API，一次 GET 请求可以获取 200 篇文章。
+
